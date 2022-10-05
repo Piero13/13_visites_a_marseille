@@ -1,0 +1,9 @@
+@import "./variables_overrides";
+
+@import "./utilities_custom";
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss";
+
+.carousel-indicators .active {
+    background-color: darkred;
+}
