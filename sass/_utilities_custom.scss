@@ -21,5 +21,13 @@ $utilities: map-merge(
                 100: 1
             )
         ),
+        "box-shadow": (
+            property: box-shadow,
+            class: box-shadow,
+            values: (
+                null: 0px 0px 0px $primary,
+                lg: 5px 5px 10px $primary
+            )
+        )
     )
 )
