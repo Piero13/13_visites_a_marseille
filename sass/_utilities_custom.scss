@@ -25,8 +25,8 @@ $utilities: map-merge(
             property: box-shadow,
             class: box-shadow,
             values: (
-                null: 0px 0px 0px $primary,
-                lg: 5px 5px 10px $primary
+                null: 0px 0px 0px grey,
+                lg: 5px 5px 10px grey
             )
         )
     )
