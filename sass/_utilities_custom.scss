@@ -24,9 +24,10 @@ $utilities: map-merge(
         "box-shadow": (
             property: box-shadow,
             class: box-shadow,
+            responsive: true,
             values: (
                 null: 0px 0px 0px grey,
-                lg: 5px 5px 10px grey
+                active: 5px 5px 10px grey
             )
         )
     )

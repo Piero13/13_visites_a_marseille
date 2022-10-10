@@ -8465,7 +8465,7 @@ textarea.form-control-lg {
   box-shadow: 0px 0px 0px grey !important;
 }
 
-.box-shadow-lg {
+.box-shadow-active {
   box-shadow: 5px 5px 10px grey !important;
 }
 
@@ -8997,6 +8997,12 @@ textarea.form-control-lg {
   .text-sm-center {
     text-align: center !important;
   }
+  .box-shadow-sm {
+    box-shadow: 0px 0px 0px grey !important;
+  }
+  .box-shadow-sm-active {
+    box-shadow: 5px 5px 10px grey !important;
+  }
 }
 @media (min-width: 768px) {
   .float-md-start {
@@ -9525,6 +9531,12 @@ textarea.form-control-lg {
   }
   .text-md-center {
     text-align: center !important;
+  }
+  .box-shadow-md {
+    box-shadow: 0px 0px 0px grey !important;
+  }
+  .box-shadow-md-active {
+    box-shadow: 5px 5px 10px grey !important;
   }
 }
 @media (min-width: 992px) {
@@ -10055,6 +10067,12 @@ textarea.form-control-lg {
   .text-lg-center {
     text-align: center !important;
   }
+  .box-shadow-lg {
+    box-shadow: 0px 0px 0px grey !important;
+  }
+  .box-shadow-lg-active {
+    box-shadow: 5px 5px 10px grey !important;
+  }
 }
 @media (min-width: 1200px) {
   .float-xl-start {
@@ -10584,6 +10602,12 @@ textarea.form-control-lg {
   .text-xl-center {
     text-align: center !important;
   }
+  .box-shadow-xl {
+    box-shadow: 0px 0px 0px grey !important;
+  }
+  .box-shadow-xl-active {
+    box-shadow: 5px 5px 10px grey !important;
+  }
 }
 @media (min-width: 1400px) {
   .float-xxl-start {
@@ -11112,6 +11136,12 @@ textarea.form-control-lg {
   }
   .text-xxl-center {
     text-align: center !important;
+  }
+  .box-shadow-xxl {
+    box-shadow: 0px 0px 0px grey !important;
+  }
+  .box-shadow-xxl-active {
+    box-shadow: 5px 5px 10px grey !important;
   }
 }
 @media (min-width: 1200px) {
